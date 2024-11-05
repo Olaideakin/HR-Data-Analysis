@@ -53,7 +53,6 @@ Given the variance in attrition rates across departments, a one-size-fits-all ap
 - Monitor and Reassess Regularly
 Attrition patterns can shift over time. Regularly monitor attrition rates by department and adjust retention strategies based on emerging trends. This adaptive approach ensures that interventions remain relevant and effective in fostering a stable and engaged workforce.
 
-
 ### Attrition by Gender
 - The attrition analysis by gender shows that 150 male employees and 87 female employees exited the company. This distribution highlights a higher attrition rate among male employees compared to female employees, suggesting potential differences in job satisfaction, work-life balance needs, or career progression opportunities between genders.
 
@@ -92,3 +91,31 @@ While attrition rates start to decrease in the 35-44 age group, retention can st
 - Promote Long-Term Career Pathways for Employees Aged 45+
 For employees aged 45-54 and over 55, attrition rates are significantly lower. These employees are likely more established in their careers and may seek job security and stability. To keep them engaged, consider offering mentorship roles, part-time work options, or additional leadership responsibilities. Recognizing their value through succession planning initiatives can further enhance retention and ensure a smooth transition for future leaders.
 
+### Attrition by Job Role and Satisfaction
+- The analysis of attrition in relation to job satisfaction ratings reveals a concerning trend: a significant portion of employees (66) report being very dissatisfied with their roles, while an additional 46 employees are dissatisfied. Together, these groups represent a substantial percentage of the workforce that may be at risk of leaving the organization due to dissatisfaction.
+
+- Conversely, the number of employees expressing satisfaction (73) and very satisfied (52) ratings is notably lower than those reporting dissatisfaction. The data indicates that a lack of satisfaction correlates with higher attrition risk, suggesting that addressing the concerns of dissatisfied employees is critical to improving retention.
+
+- This highlights the need for targeted interventions aimed at enhancing job satisfaction, such as conducting employee feedback sessions, implementing changes based on survey results, and fostering a positive work environment. By actively addressing the concerns of the dissatisfied workforce, the organization can work towards reducing attrition and improving overall employee morale.
+
+#### Recommendation
+- Conduct Employee Satisfaction Surveys
+Implement regular, anonymous surveys to gather feedback on job satisfaction. Understanding the specific reasons behind dissatisfaction can help identify key areas for improvement and guide targeted initiatives to address employee concerns.
+
+- Develop Action Plans for Dissatisfied Employees
+Create individualized action plans for employees who report being very dissatisfied or dissatisfied. This may involve one-on-one meetings to discuss their concerns, career aspirations, and any barriers they face in their current roles. Tailoring solutions to their specific needs can enhance their engagement and commitment.
+
+- Enhance Communication and Transparency
+Foster a culture of open communication where employees feel comfortable expressing their concerns and suggestions. Transparency from leadership regarding organizational changes and decision-making processes can build trust and reduce feelings of dissatisfaction.
+
+- Implement Employee Development Programs
+Offer professional development opportunities, such as training, mentorship, and career advancement programs. Supporting employees in their career growth can increase job satisfaction and decrease attrition rates.
+
+- Focus on Recognition and Reward Systems
+Develop a robust employee recognition program that acknowledges both individual and team achievements. Recognizing employees’ contributions can improve morale and satisfaction, particularly for those who may feel undervalued.
+
+- Promote Work-Life Balance Initiatives
+Implement policies that support work-life balance, such as flexible work hours, remote work options, and mental health resources. Ensuring employees can manage their personal and professional lives effectively can enhance overall job satisfaction.
+
+- Monitor Progress and Adjust Strategies
+Continuously assess the effectiveness of these initiatives by tracking employee satisfaction ratings and attrition rates. Adjust strategies as needed based on ongoing feedback to ensure that efforts remain relevant and effective.
